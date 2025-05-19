@@ -61,4 +61,11 @@ git commit -m "Fix: Resolve issue with shopping cart total calculation"
 
 After committing your changes, you'll typically push them to a branch on GitHub and then open a Pull Request to merge your changes into the main project.
 
+## Contributors / Project Students:
+
+*   Mohaned Khaled
+*   Farid Hady
+*   Omar Ahmed
+*   Amjar AlRayes
+
 Happy coding!
